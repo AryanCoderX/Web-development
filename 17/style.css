@@ -1,0 +1,37 @@
+/* universal selector */
+*{  
+    margin: 0;
+    padding: 0;   
+}
+
+/* element selector */
+div{
+    background-color: rgba(39, 155, 163, 0.584);
+}
+
+/* child selector */
+div>p{
+    background-color: whitesmoke;
+}
+
+/* decendent selector */
+div p{
+    font-size: large;
+}
+
+/* class selector */
+.red{
+    color: red;
+}
+
+/* id selector */
+#blue{
+    color: green;
+    background-color: whitesmoke;
+}
+
+/* psudo selector */
+a:hover{
+    background-color: green;
+    color: white;
+}

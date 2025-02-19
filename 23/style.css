@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#ak{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    background-color: aqua;
+    border: solid black;
+    display: inline-block;
+    padding: 45px;
+    margin: 18px;
+}

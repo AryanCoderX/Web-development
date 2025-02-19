@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box1{
+    background-color: aqua;
+    border: 2px solid black;
+    width: 80vw;
+    margin: auto;
+}
+
+.box2{
+    background-color: aqua;
+    border: 2px solid black;
+    height: 100px;
+    font-size: 16px;
+    min-height: 73vh;
+    width: 80vw;
+    margin: auto;
+}
+.container{
+    background-color: aqua;
+    border: 2px solid black;
+    height: 100px;
+    font-size: 16px;
+}
+
+.container>p{
+    font-size: ;
+}
